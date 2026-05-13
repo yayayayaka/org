@@ -59,7 +59,7 @@ This should be displayed on the website.
 
 ### How to sponsor
 
-Send an email to board@nixos.org with:
+Send an email to foundation@nixos.org with:
 - Company name and website
 - Desired tier, amount and perks
 - Any other details
