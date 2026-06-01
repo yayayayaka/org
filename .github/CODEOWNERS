@@ -26,7 +26,7 @@
 /doc/freescout.md @infinisil
 /doc/governance.md @NixOS/steering
 /doc/values.md @NixOS/steering
-/doc/vault.md @Mic92 @mweinelt @zimbatm
+/doc/vault.md @Mic92 @mweinelt
 /doc/constitution.md @NixOS/steering
 /doc/nixpkgs-core.md @NixOS/nixpkgs-core
 /doc/nixpkgs-committers.md @NixOS/nixpkgs-core
