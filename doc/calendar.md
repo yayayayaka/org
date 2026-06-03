@@ -4,7 +4,7 @@ There is [this official Google Calendar](https://calendar.google.com/calendar/u/
 
 These Google accounts have access to manage permissions (and make changes to events):
 <!-- Keep this list in sync with the codeowners of this file! -->
-- tomberek@gmail.com (@tomberek)
+- tomberek@gmail.com (@tomberek) (owner)
 - cafkafk.nixos@gmail.com (@cafkafk)
 - google@infinisil.com (@infinisil)
 
