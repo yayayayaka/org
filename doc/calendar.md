@@ -13,3 +13,4 @@ These Google accounts can only make changes to events:
 - daniel.n.baker@gmail.com (@djacu)
 - @mweinelt
 - ners.nixos@gmail.com (@ners)
+- jthalheim@gmail.com (@Mic92)
