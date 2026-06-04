@@ -4,12 +4,13 @@ There is [this official Google Calendar](https://calendar.google.com/calendar/u/
 
 These Google accounts have access to manage permissions (and make changes to events):
 <!-- Keep this list in sync with the codeowners of this file! -->
-- tomberek@gmail.com (@tomberek)
-- cafkafk.nixos@gmail.com (@cafkafk)
-- google@infinisil.com (@infinisil)
+- SC: tomberek@gmail.com (@tomberek) (owner)
+- SC: cafkafk.nixos@gmail.com (@cafkafk)
+- Foundation Board: google@infinisil.com (@infinisil)
 
 These Google accounts can only make changes to events:
-- jeremyfleischman@gmail.com (@jfly)
-- daniel.n.baker@gmail.com (@djacu)
-- @mweinelt
-- ners.nixos@gmail.com (@ners)
+- Nix formatting team: jeremyfleischman@gmail.com (@jfly)
+- Marketing team: daniel.n.baker@gmail.com (@djacu)
+- Infra team: @mweinelt
+- NixCon organiser: ners.nixos@gmail.com (@ners)
+- Hydra/Nix/infra/hardware team: jthalheim@gmail.com (@Mic92)
