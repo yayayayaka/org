@@ -1,14 +1,17 @@
-## GitHub org owners
+## GitHub enterprise and org owners
 
-Both the [NixOS](https://github.com/nixos) and [NixCon](https://github.com/nixcon) GitHub organisations are official.
+The [NixOS GitHub enterprise](https://github.com/enterprises/nixos) and all (non-test) GitHub organisations part of it have the same set of people with the owners permission, comprised of the following team representatives:
+<!-- Also keep this in sync with the members of the @NixOS/org team! -->
+- [Foundation Board](https://nixos.org/community/teams/foundation-board) representative[^2]: [@infinisil](https://github.com/infinisil)
+- [Steering Committee](https://nixos.org/community/teams/steering-committee) representative[^3]: [@PhilipTaron](https://github.com/PhilipTaron)
+- [Security Team](https://nixos.org/community/teams/security/) representative[^4]: [@mweinelt](https://github.com/mweinelt)
+- [Nixpkgs Core Team](https://nixos.org/community/teams/nixpkgs-core/) representative[^4]: [@emilazy](https://github.com/emilazy)
 
-The following people have the GitHub "owners" permissions:
-<!-- Also keep this in sync with the members of @NixOS/org! -->
-- [@infinisil](https://github.com/infinisil)
-- [@lassulus](https://github.com/lassulus)
-- [@tomberek](https://github.com/tomberek)
-- [@winterqt](https://github.com/winterqt)
-- [@zimbatm](https://github.com/zimbatm)
+[^2]: For legal/financial matters
+[^3]: For elected governance
+[^4]: For relevant expertise
+
+The number of org owners should be kept low to improve our security posture, while having team representatives improves the health of org owner decision-making by naturally ensuring a "two-person decisions require sign-off from multiple teams" property.
 
 ## How to contact the team
 For any GitHub-related needs, you can reach out to the org owners by either:
@@ -55,3 +58,9 @@ Org owners do not have authority to make other changes.
 - Maintain the [GitHub organisation documentation](./github.md).
 - Act as janitor for this repository.
 - [Add GitHub Enterprise licenses](https://github.com/enterprises/nixos/licensing) when running out of them
+
+### Team Representatives Rotation
+
+- At any time, a team can withdraw its representative per its own decision procedures. The Steering Committee can also vote to remove a representative.
+- If a represented team's seat is vacant or expected to become vacant, it can nominate a replacement per its own decision procedures. The Steering Committee then votes on approving the replacement representative.
+- The Steering Committee remains the final authority and can vote to amend org owner procedures at any time. Concerns about trustworthiness, activity, or procedures can be raised through the usual channels.
