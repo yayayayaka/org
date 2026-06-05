@@ -55,7 +55,10 @@ This should be displayed on the website.
 - Visibility priority is given according to tiers and donation amount.
 - The sponsor can selectively abstain from perks.
 - Surplus funds will be used to support official Nix projects.
-- Reach out if you'd like to sponsor in a more custom way, such as food, drinks, services, equipment, or only specific perks.
+- Reach out if you'd like to sponsor in a non-monetary way, such as food, drinks, services, equipment.
+- Only the exact tiers are allowed, perks can not be negotiated.
+- Core perks (including physical booth space) may not be pooled, split, or shared between multiple independent corporate entities.
+- Sponsors must be treated equally according to the established prospectus.
 
 ### How to sponsor
 
