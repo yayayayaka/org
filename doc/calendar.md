@@ -14,3 +14,5 @@ These Google accounts can only make changes to events:
 - Infra team: @mweinelt
 - NixCon organiser: ners.nixos@gmail.com (@ners)
 - Hydra/Nix/infra/hardware team: jthalheim@gmail.com (@Mic92)
+- Documentation team: ch.friedow@gmail.com (@friedow)
+- Documentation team: hsjobeki@gmail.com (@hsjobeki)
